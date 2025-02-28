@@ -1,4 +1,5 @@
 INSERT INTO transactions (client_id, amount, transaction_date) VALUES
+(100, 1234.56, '2025-02-28'),
 (5001, 125.50, '2025-01-01'),
 (5002, 350.75, '2025-01-02'),
 (5003, 45.30, '2025-01-03'),
